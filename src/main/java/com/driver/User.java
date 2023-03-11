@@ -22,6 +22,6 @@ public class User {
     }
 
     public void setPhone(String newPhone) {
-        this.newPhone = newPhone;
+        this.mobile = newPhone;
     }
 }
